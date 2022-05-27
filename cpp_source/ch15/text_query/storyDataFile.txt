@@ -1,4 +1,0 @@
-Hello world!
-This is a funny trip for learning c++.
-I am Javen Chen.
-Nice to see you.
